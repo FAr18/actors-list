@@ -319,6 +319,24 @@
       "image_url": ""
     },
     {
+      "character": "張衝蹦",
+      "actor": "矮靈族長阿翔",
+      "tags": ["newbie_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "矮靈族長阿翔",
+          "url": "https://www.twitch.tv/sean_913"
+        },
+        {
+          "web": "Instagram",
+          "account": "sean_913",
+          "url": "https://www.instagram.com/sean_913/"
+        }
+      ],
+      "image_url": ""
+    },
+    {
       "character": "高大成",
       "actor": "方唐鏡",
       "tags": ["newbie_prisoner", "prisoner"],
