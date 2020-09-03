@@ -42,9 +42,16 @@ export default {
     fetchData() {
       axios.get("static/actors.json").then((response) => {
         this.actors = response.data.actors;
-        console.log(this.actors.length);
+        this.shuffleList();
       });
     },
+    shuffleList() {
+      let length = this.actors.length;
+      for (let i = length - 1; i > 0; i--) {
+        let rndIndex = Math.floor(Math.random() * (i + 1));
+        [this.actors[i], this.actors[rndIndex]] = [this.actors[rndIndex], this.actors[i]];
+      }
+    }
   },
   computed: {
     listFiltered() {

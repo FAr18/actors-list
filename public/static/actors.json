@@ -573,6 +573,52 @@
       "image_url": ""
     },
     {
+      "character": "麥克斯 班吉",
+      "actor": "窩草",
+      "tags": ["newbie_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "窩草",
+          "url": "https://www.twitch.tv/kimi69"
+        },
+        {
+          "web": "Facebook",
+          "account": "Kimi69",
+          "url": "https://www.facebook.com/kimi696969/"
+        },
+        {
+          "web": "Instagram",
+          "account": "kimi69www",
+          "url": "https://www.instagram.com/kimi69www"
+        },
+        {
+          "web": "Youtube",
+          "account": "Kimi69",
+          "url": "https://www.youtube.com/c/Kimi69/featured"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "杜斯妥也夫斯基",
+      "actor": "Fick",
+      "tags": ["newbie_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Facebook",
+          "account": "FICK Chuang",
+          "url": "https://www.facebook.com/ffick0505"
+        },
+        {
+          "web": "Instagram",
+          "account": "chuangfick",
+          "url": "https://www.instagram.com/chuangfick"
+        }
+      ],
+      "image_url": ""
+    },
+    {
       "character": "張乃誠",
       "actor": "大家好我是奶哥",
       "tags": ["prison_guard"],
