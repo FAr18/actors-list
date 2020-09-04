@@ -10,7 +10,7 @@ public/static/actors.json
 {
   "character": "角色名稱",
   "actor": "扮演者",
-  "tags": ["prisoner", "origin_prisoner", "newbie_prisoner", "police", "prison_guard", "prison_doctor"],
+  "tags": ["prisoner", "origin_prisoner", "new_prisoner", "police", "prison_guard", "prison_doctor"],
   "websites": [
     {
       "web": "Facebook",
@@ -39,6 +39,7 @@ public/static/actors.json
 
 ## Credits
 資料參考: [觀眾協力資料集](https://docs.google.com/spreadsheets/d/1fREQDj8aGvheDoCB8-xQXAEa_9wo3OK0iZHxG-ZxtXc/edit#gid=0)
+
 icon: [ICONFINDER](https://www.iconfinder.com/), [ICONS8](https://www.icons8.com)
 
 
