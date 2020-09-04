@@ -1080,6 +1080,19 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "張警豪",
+      "actor": "阿森",
+      "tags": ["police"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "森仔",
+          "url": "https://www.twitch.tv/reevepang"
+        }
+      ],
+      "image_url": ""
     }
   ]
 }
