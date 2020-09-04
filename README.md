@@ -37,6 +37,10 @@ public/static/actors.json
 }
 ```
 
+## Credits
+資料參考: [觀眾協力資料集](https://docs.google.com/spreadsheets/d/1fREQDj8aGvheDoCB8-xQXAEa_9wo3OK0iZHxG-ZxtXc/edit#gid=0)
+icon: [ICONFINDER](https://www.iconfinder.com/), [ICONS8](https://www.icons8.com)
+
 
 # rp_actors_list
 

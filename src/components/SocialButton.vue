@@ -10,6 +10,7 @@ import twitchIcon from "@/assets/icons8-twitch-48.png";
 import facebookIcon from "@/assets/icons8-facebook-48.png";
 import instagramIcon from "@/assets/icons8-instagram-48.png";
 import youtubeIcon from "@/assets/icons8-youtube-squared-48.png"
+import plurkIcon from "@/assets/plurk.png"
 
 export default {
   props: {
@@ -32,27 +33,15 @@ export default {
         Facebook: facebookIcon,
         Twitch: twitchIcon,
         Instagram: instagramIcon,
-        Youtube: youtubeIcon
+        Youtube: youtubeIcon,
+        Plurk: plurkIcon
       };
       return iconSet[this.type];
     },
   },
   methods: {
     openUrl() {
-      let url = "";
-      if (this.url) url = this.url;
-      else if (this.account) {
-        let urlSet = {
-          facebook: "https://www.facebook.com/",
-          twitch: "https://www.twitch.tv/",
-          instagram: "https://www.instagram.com/",
-          plurk: "https://www.plurk.com/",
-          youtube: "https://www.youtube.com/"
-        };
-        url = `${urlSet[this.type]}${this.account}`;
-      }
-
-      if (url) window.open(url);
+      if (this.url) window.open(this.url);
     },
   },
 };
@@ -68,5 +57,10 @@ export default {
 .social-button-icon {
   width: 24px;
   height: 24px;
+}
+
+.social-button-text {
+  padding-left: 3px;
+  font-size: 14px;
 }
 </style>

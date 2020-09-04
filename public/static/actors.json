@@ -249,7 +249,7 @@
     {
       "character": "陳天雄",
       "actor": "APlus",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -272,7 +272,7 @@
     {
       "character": "邱禧瑯",
       "actor": "Nita 妮塔",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Facebook",
@@ -285,7 +285,7 @@
     {
       "character": "王若楠",
       "actor": "我的天天鵝",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -298,7 +298,7 @@
     {
       "character": "九蚊龍",
       "actor": "歪頭歪頭",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -321,7 +321,7 @@
     {
       "character": "張衝蹦",
       "actor": "矮靈族長阿翔",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -339,7 +339,7 @@
     {
       "character": "高大成",
       "actor": "方唐鏡",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -357,7 +357,7 @@
     {
       "character": "郝啾啾",
       "actor": "阿璠",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -375,7 +375,7 @@
     {
       "character": "李尤博",
       "actor": "亮圓",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -388,7 +388,7 @@
     {
       "character": "劉氓",
       "actor": "PuSH",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -406,7 +406,7 @@
     {
       "character": "林企逃",
       "actor": "大熊",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -434,7 +434,7 @@
     {
       "character": "簡到炮",
       "actor": "簡到槍",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -447,7 +447,7 @@
     {
       "character": "權嘉",
       "actor": "以陌、小賴",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -465,7 +465,7 @@
     {
       "character": "武陸戚",
       "actor": "綠寶",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -493,7 +493,7 @@
     {
       "character": "倪筱芯",
       "actor": "倪筱芯",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -506,7 +506,7 @@
     {
       "character": "賴晧晴",
       "actor": "ChinGw",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -519,7 +519,7 @@
     {
       "character": "夏奈琳",
       "actor": "柔伊Zoe",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Facebook",
@@ -535,6 +535,11 @@
           "web": "Youtube",
           "account": "柔伊Zoe",
           "url": "https://www.youtube.com/channel/UCOhvluFPMWqPxgVH3edamuw"
+        },
+        {
+          "web": "Plurk",
+          "account": "不治之鎮-夏奈琳",
+          "url": "https://www.plurk.com/haha54zoe"
         }
       ],
       "image_url": ""
@@ -542,14 +547,14 @@
     {
       "character": "約翰",
       "actor": "QQBOY",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [],
       "image_url": ""
     },
     {
       "character": "伍悅天",
       "actor": "阿木Jeff",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -562,7 +567,7 @@
     {
       "character": "麥克瑋",
       "actor": "阿偉",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -575,7 +580,7 @@
     {
       "character": "王帝",
       "actor": "您老爸",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -593,7 +598,7 @@
     {
       "character": "麥克斯 班吉",
       "actor": "窩草",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
@@ -621,7 +626,7 @@
     {
       "character": "杜斯妥也夫斯基",
       "actor": "Fick",
-      "tags": ["newbie_prisoner", "prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Facebook",

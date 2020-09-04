@@ -1,6 +1,5 @@
 <template>
   <b-card :title="characterName" :sub-title="getSubTitle(actorName)" tag="article" class="actor-card-container">
-    <!-- <b-card-text>由 {{ actorName }} 扮演</b-card-text> -->
     <b-card-text v-if="spoiler">
       <b-button
         v-for="(tag, key) in tags"
@@ -12,6 +11,7 @@
         {{ getTagText(tag) }}
       </b-button>
     </b-card-text>
+    <hr>
     <b-card-text>
       <SocialButton
         v-for="(social, key) in websites"
@@ -65,7 +65,7 @@ export default {
       let tagsColor = {
         prisoner: "secondary",
         origin_prisoner: "danger",
-        newbie_prisoner: "warning",
+        new_prisoner: "warning",
         police: "primary",
         prison_guard: "info",
         prison_doctor: "success"
@@ -76,7 +76,7 @@ export default {
       let tagsColor = {
         prisoner: "囚犯",
         origin_prisoner: "原生囚犯",
-        newbie_prisoner: "新生囚犯",
+        new_prisoner: "新生囚犯",
         police: "警察",
         prison_guard: "獄警",
         prison_doctor: "獄醫"

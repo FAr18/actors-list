@@ -3,6 +3,9 @@
     <b-container class="p-3">
       <!-- <h1 class="m-4 text-light">不治之鎮 2.0</h1>
       <div class="text text-light"></div> -->
+      <b-row align-h="end">
+        <img id="github-btn" :src="githubUrl" @click="openGithub()"/>
+      </b-row>
       <b-form-checkbox
         v-model="spoiler"
         name="check-button"
@@ -31,6 +34,7 @@
 </template>
 
 <script>
+import githubIcon from "@/assets/2993771 - github logo media social.png";
 import ActorsList from "./components/ActorsList";
 
 export default {
@@ -78,6 +82,14 @@ export default {
     setFilter(newFilter) {
       if (newFilter == this.filter) this.filter = "";
       else this.filter = newFilter;
+    },
+    openGithub() {
+      window.open("https://github.com/FAr18/actors-list");
+    }
+  },
+  computed: {
+    githubUrl() {
+      return githubIcon;
     }
   },
 };
@@ -90,5 +102,14 @@ body {
 
 #app {
   text-align: center;
+}
+
+#github-btn {
+  border-radius: 50%;
+  background-color: white;
+  padding: 3px;
+  width: 36px;
+  height: 36px;
+  cursor: pointer;
 }
 </style>
