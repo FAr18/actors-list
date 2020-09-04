@@ -1029,6 +1029,57 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "高幸玉",
+      "actor": "凱拉",
+      "tags": ["prisoner", "new_prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "你的徒妹凱拉",
+          "url": "https://www.twitch.tv/kayla_tw"
+        },
+        {
+          "web": "Facebook",
+          "account": "你的徒妹，凱拉",
+          "url": "https://www.facebook.com/%E4%BD%A0%E7%9A%84%E5%BE%92%E5%A6%B9%E5%87%B1%E6%8B%89-1130340513814748/"
+        },
+        {
+          "web": "Youtube",
+          "account": "凱拉拉拉拉",
+          "url": "https://www.youtube.com/channel/UCIWnc3AfQUn-4UCnPcZkdMg"
+        },
+        {
+          "web": "Instagram",
+          "account": "kaylaaa.tw",
+          "url": "https://www.instagram.com/kaylaaa.tw/"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "張大蝦",
+      "actor": "殺梗",
+      "tags": ["prisoner", "new_prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "殺梗",
+          "url": "https://www.twitch.tv/xargon0731"
+        },
+        {
+          "web": "Facebook",
+          "account": "Xargon",
+          "url": "https://www.facebook.com/Xargonlol"
+        },
+        {
+          "web": "Youtube",
+          "account": "XargonTW",
+          "url": "https://www.youtube.com/user/XargonTW"
+        }
+      ],
+      "image_url": ""
     }
   ]
 }
