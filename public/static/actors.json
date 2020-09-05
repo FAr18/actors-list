@@ -1098,6 +1098,58 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "陳峰",
+      "actor": "陳風",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "陳風風風",
+          "url": "https://www.twitch.tv/rainy051245"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "吳君豪",
+      "actor": "MDxss",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "MDxss",
+          "url": "https://www.twitch.tv/mdxss"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "楊千囍",
+      "actor": "千囍",
+      "tags": ["prison_docter"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "千囍不姓易烊",
+          "url": "https://www.twitch.tv/kiki2302"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "毛多多",
+      "actor": "毛怪",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "從前有個毛怪",
+          "url": "https://www.twitch.tv/jin08255"
+        }
+      ],
+      "image_url": ""
     }
   ]
 }
