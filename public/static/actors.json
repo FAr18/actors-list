@@ -1066,7 +1066,7 @@
     {
       "character": "張大蝦",
       "actor": "殺梗",
-      "tags": ["prisoner", "new_prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
