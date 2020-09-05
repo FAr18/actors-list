@@ -48,7 +48,7 @@ export default {
       tags: [
         "prisoner",
         "origin_prisoner",
-        "newbie_prisoner",
+        "new_prisoner",
         "police",
         "prison_guard",
         "prison_doctor"
@@ -61,7 +61,7 @@ export default {
       let tagsColor = {
         prisoner: "secondary",
         origin_prisoner: "danger",
-        newbie_prisoner: "warning",
+        new_prisoner: "warning",
         police: "primary",
         prison_guard: "info",
         prison_doctor: "success"
@@ -72,7 +72,7 @@ export default {
       let tagsColor = {
         prisoner: "囚犯",
         origin_prisoner: "原生囚犯",
-        newbie_prisoner: "新生囚犯",
+        new_prisoner: "新生囚犯",
         police: "警察",
         prison_guard: "獄警",
         prison_doctor: "獄醫"

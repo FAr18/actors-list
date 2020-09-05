@@ -846,6 +846,11 @@
           "web": "Facebook",
           "account": "Kr1stw 蔣西南",
           "url": "https://www.facebook.com/kr1stw69/"
+        },
+        {
+          "web": "Youtube",
+          "account": "Kr1stw蔣西南",
+          "url": "https://www.youtube.com/channel/UCrLZoOa3HLrp4FOUssG-LJA"
         }
       ],
       "image_url": ""
@@ -1033,7 +1038,7 @@
     {
       "character": "高幸玉",
       "actor": "凱拉",
-      "tags": ["prisoner", "new_prisoner"],
+      "tags": ["new_prisoner", "prisoner"],
       "websites": [
         {
           "web": "Twitch",
