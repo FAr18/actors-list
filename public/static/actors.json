@@ -493,6 +493,11 @@
           "web": "Youtube",
           "account": "YML64",
           "url": "https://www.youtube.com/channel/UCLpcI-qLlD7__pMKm5FplrQ/featured"
+        },
+        {
+          "web": "Plurk",
+          "account": "YIMOAR",
+          "url": "https://www.plurk.com/laiii64"
         }
       ],
       "image_url": ""
@@ -1147,6 +1152,45 @@
           "web": "Twitch",
           "account": "從前有個毛怪",
           "url": "https://www.twitch.tv/jin08255"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "葉子強",
+      "actor": "KuSo",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "哭嗖",
+          "url": "https://www.twitch.tv/tw_kuso"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "劉言",
+      "actor": "趴趴趴趴",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "趴趴趴趴",
+          "url": "https://www.twitch.tv/w6661322"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "陳曉東",
+      "actor": "神璽",
+      "tags": ["prison_guard"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "神璽",
+          "url": "https://www.twitch.tv/senxi920"
         }
       ],
       "image_url": ""
