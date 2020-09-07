@@ -467,6 +467,11 @@
           "web": "Facebook",
           "account": "大熊的歡樂實況台",
           "url": "https://www.facebook.com/BearHappyGame/"
+        },
+        {
+          "web": "Plurk",
+          "account": "林企逃",
+          "url": "https://www.plurk.com/TwitchTwBigBear",
         }
       ],
       "image_url": ""
@@ -605,6 +610,11 @@
           "web": "Twitch",
           "account": "我好像是阿木",
           "url": "https://www.twitch.tv/jeffkidding0916"
+        },
+        {
+          "web": "Plurk",
+          "account": "🚘伍悅的天🎶",
+          "url": "https://www.plurk.com/JeffKidding0916"
         }
       ],
       "image_url": ""
