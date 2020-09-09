@@ -1209,6 +1209,32 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "杜南",
+      "actor": "春綠",
+      "tags": ["prison_guard"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "春綠",
+          "url": "https://www.twitch.tv/greenery_dj"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "石瑞克",
+      "actor": "哇江江啦",
+      "tags": ["prison_guard"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "哇江江啦",
+          "url": "https://www.twitch.tv/jiang_845845"
+        }
+      ],
+      "image_url": ""
     }
   ]
 }
