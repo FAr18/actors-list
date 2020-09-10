@@ -1235,6 +1235,49 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "鍾梓祈",
+      "actor": "樂思大人",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "樂思大人",
+          "url": "https://www.twitch.tv/rr_leice"
+        },
+        {
+          "web": "Instagram",
+          "account": "rr_lice",
+          "url": "https://www.instagram.com/rr_lice/"
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "艾熙娜",
+      "actor": "島田凱倫",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "島田凱倫",
+          "url": "https://www.twitch.tv/karen_123"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "金宇晨",
+      "actor": "宇晨宇晨",
+      "tags": ["police"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "宇晨",
+          "url": "https://www.twitch.tv/ywl1122"
+        }
+      ],
+      "image_url": ""
     }
   ]
 }
