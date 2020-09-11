@@ -1310,6 +1310,13 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "錢進",
+      "actor": "BoJun",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [],
+      "image_url": ""
     }
   ]
 }
