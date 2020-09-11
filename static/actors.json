@@ -1279,6 +1279,32 @@
         }
       ],
       "image_url": ""
+    },
+    {
+      "character": "賈斯伯",
+      "actor": "賈蘇伯",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "賈蘇伯",
+          "url": "https://www.twitch.tv/chjh19"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "李昕",
+      "actor": "chichi",
+      "tags": ["prison_doctor"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "chichi",
+          "url": "https://www.twitch.tv/chichi0501"
+        }
+      ],
+      "image_url": ""
     }
   ]
 }
