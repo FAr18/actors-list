@@ -1317,6 +1317,60 @@
       "tags": ["new_prisoner", "prisoner"],
       "websites": [],
       "image_url": ""
-    }
+    },
+    {
+      "character": "李家洛",
+      "actor": "Numbfish",
+      "tags": ["prison_guard"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "Numbfish",
+          "url": "https://www.twitch.tv/numbfish" 
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "左蔓",
+      "actor": "小奈",
+      "tags": ["police"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "小奈",
+          "url": "https://www.twitch.tv/nana803" 
+        },
+        {
+          "web": "Instagram",
+          "account": "nana___0803",
+          "url": "https://www.instagram.com/nana___0803/" 
+        },
+        {
+          "web": "Facebook",
+          "account": "NaNa奈奈",
+          "url": "https://www.facebook.com/baby90206" 
+        },
+        {
+          "web": "Youtube",
+          "account": "Na Na",
+          "url": "https://www.youtube.com/channel/UCv25xJcip79S75KQO_HHKmg" 
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "毛冠志",
+      "actor": "樂仔啊",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "樂仔啊",
+          "url": "twitch.tv/hp950526"
+        }
+      ],
+      "image_url": ""
+    },
   ]
 }
