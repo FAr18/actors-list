@@ -1367,7 +1367,7 @@
         {
           "web": "Twitch",
           "account": "樂仔啊",
-          "url": "twitch.tv/hp950526"
+          "url": "https://www.twitch.tv/hp950526"
         }
       ],
       "image_url": ""
@@ -1377,6 +1377,66 @@
       "actor": "MELLO",
       "tags": ["police"],
       "websites": [],
+      "image_url": ""
+    },
+    {
+      "character": "黃家豪",
+      "actor": "我4查理",
+      "tags": ["prison_doctor"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "我4查理",
+          "url": "https://www.twitch.tv/charlie_lan_"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "毛冠志",
+      "actor": "樂仔啊",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "樂仔啊",
+          "url": "https://www.twitch.tv/hp950526"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "劉德華",
+      "actor": "",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "林月悅",
+      "actor": "星心",
+      "tags": ["new_prisoner", "prisoner"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "星心",
+          "url": "https://www.twitch.tv/xingxin0401"
+        }
+      ],
+      "image_url": ""
+    },
+    {
+      "character": "大佑池久",
+      "actor": "茅房廁紙",
+      "tags": ["police"],
+      "websites": [
+        {
+          "web": "Twitch",
+          "account": "茅房廁紙",
+          "url": "https://www.twitch.tv/yuuchenhan"
+        }
+      ],
       "image_url": ""
     }
   ]
